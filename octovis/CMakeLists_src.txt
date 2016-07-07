@@ -31,6 +31,7 @@ set(viewer_SRCS
 	src/ViewerSettingsPanel.cpp
 	src/ViewerSettingsPanelCamera.cpp
 	src/CameraFollowMode.cpp
+	../octomap/src/OcTree.cpp
 )	
 
 # Resource files (icons, ...)
