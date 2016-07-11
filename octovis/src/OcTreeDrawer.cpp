@@ -23,6 +23,7 @@
  */
 
 #include <octovis/OcTreeDrawer.h>
+
 #include <QGLViewer/qglviewer.h>
 
 #define OTD_RAD2DEG 57.2957795
